@@ -1,7 +1,7 @@
 require 'spec_helper'
 
 describe User do
-
+  
   before(:each) do
     @attr = {
       :name => "Example User",
@@ -131,3 +131,5 @@ describe User do
     end
   end
 end
+
+ 
